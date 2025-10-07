@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <video width="640" height="360" controls>
-  <source src="./qiqi_walk.mov" type="video/mp4">
+  <source src="./qiqi_walk.mov" type="video/mov">
   来看看qiqi散步pov吧
 </video>
 <!--
