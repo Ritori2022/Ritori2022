@@ -1,6 +1,8 @@
 ## Hi there 👋来看看qiqi散步pov吧
+<video width="50%" controls>
+  <source src="./qiqi_walk.mov)" type="video/mp4">
+</video>
 
-![视频演示](./qiqi_walk.mov)
 <!--
 **Ritori2022/Ritori2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
