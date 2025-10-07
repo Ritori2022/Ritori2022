@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<video width="640" height="360" controls>
-  <source src="./qiqi_walk.mov" type="video/mov">
-  来看看qiqi散步pov吧
-</video>
+## Hi there 👋 来看看qiqi散步pov吧
+![qiqi_walk](./qiqi_walk.mov)
 <!--
 **Ritori2022/Ritori2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
